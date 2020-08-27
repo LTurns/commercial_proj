@@ -1,0 +1,41 @@
+body {
+ background-image: url("../assets/machine.jpeg");
+background-repeat: no-repeat;
+min-height: 100vh;
+background-size: 100%;
+color: white;
+}
+
+.header {
+justify-content: center;
+text-align: center;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+}
+
+.card {
+ width: 30%;
+ display: inline-block;
+ margin: 2%;
+ margin-top: 5%;
+ border: none;
+ opacity: 0.9;
+}
+
+h1 {
+ font-size: 100px;
+}
+
+h3 {
+ font-size: 40px;
+}
+
+.btn {
+ font-size: 20px;
+}
+
+.category2_image {
+ width: 50%;
+}
+
